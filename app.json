@@ -1,0 +1,7 @@
+{
+  "name": "LMSystem",
+  "displayName": "LMSystem",
+  "plugins": [
+    "expo-localization"
+  ]
+}
